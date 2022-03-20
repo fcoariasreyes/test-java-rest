@@ -1,0 +1,12 @@
+cl/test/tbk/fcoarias/model/PhoneObject.class
+cl/test/tbk/fcoarias/controller/UserController.class
+cl/test/tbk/fcoarias/dao/UserDao.class
+cl/test/tbk/fcoarias/service/UserService.class
+cl/test/tbk/fcoarias/util/HibernateUtil.class
+cl/test/tbk/fcoarias/model/response/BaseResponeObject.class
+cl/test/tbk/fcoarias/model/response/UserResponseObject.class
+cl/test/tbk/fcoarias/model/MetaDataObject.class
+cl/test/tbk/fcoarias/model/exception/DaoNotUniqueObjectException.class
+cl/test/tbk/fcoarias/AppBoot.class
+cl/test/tbk/fcoarias/model/response/UserListResponseObject.class
+cl/test/tbk/fcoarias/model/UserObject.class

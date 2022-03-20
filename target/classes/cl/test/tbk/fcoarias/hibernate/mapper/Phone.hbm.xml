@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd">
+	
+<hibernate-mapping>
+    <class name="cl.test.tbk.fcoarias.model.PhoneObject" table="PHONE" dynamic-update="false" dynamic-insert="false">
+        <cache usage="read-write"/>
+        <id name="id" column="ID_PHONE" type="java.lang.Integer">
+            <generator class="increment"></generator>
+        </id>
+        <property name="idUser" type="java.lang.Integer" update="true" insert="true" access="property" column="ID_USER"/>
+        <property name="city_code" type="java.lang.String" update="true" insert="true" access="property" column="CITY_CODE"/>
+        <property name="country_code" type="java.lang.String" update="true" insert="true" access="property" column="COUNTRY_CODE"/>
+        <property name="number" type="java.lang.String" update="true" insert="true" access="property" column="NUMBER"/>
+    </class>
+</hibernate-mapping>

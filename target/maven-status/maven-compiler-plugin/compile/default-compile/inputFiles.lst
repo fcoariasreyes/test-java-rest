@@ -1,0 +1,12 @@
+/Users/francisco/Documents/Github/test-tbk-fcoarias/src/main/java/cl/test/tbk/fcoarias/util/HibernateUtil.java
+/Users/francisco/Documents/Github/test-tbk-fcoarias/src/main/java/cl/test/tbk/fcoarias/model/exception/DaoNotUniqueObjectException.java
+/Users/francisco/Documents/Github/test-tbk-fcoarias/src/main/java/cl/test/tbk/fcoarias/dao/UserDao.java
+/Users/francisco/Documents/Github/test-tbk-fcoarias/src/main/java/cl/test/tbk/fcoarias/model/response/UserResponseObject.java
+/Users/francisco/Documents/Github/test-tbk-fcoarias/src/main/java/cl/test/tbk/fcoarias/model/response/UserListResponseObject.java
+/Users/francisco/Documents/Github/test-tbk-fcoarias/src/main/java/cl/test/tbk/fcoarias/model/UserObject.java
+/Users/francisco/Documents/Github/test-tbk-fcoarias/src/main/java/cl/test/tbk/fcoarias/AppBoot.java
+/Users/francisco/Documents/Github/test-tbk-fcoarias/src/main/java/cl/test/tbk/fcoarias/model/PhoneObject.java
+/Users/francisco/Documents/Github/test-tbk-fcoarias/src/main/java/cl/test/tbk/fcoarias/controller/UserController.java
+/Users/francisco/Documents/Github/test-tbk-fcoarias/src/main/java/cl/test/tbk/fcoarias/model/response/BaseResponeObject.java
+/Users/francisco/Documents/Github/test-tbk-fcoarias/src/main/java/cl/test/tbk/fcoarias/model/MetaDataObject.java
+/Users/francisco/Documents/Github/test-tbk-fcoarias/src/main/java/cl/test/tbk/fcoarias/service/UserService.java

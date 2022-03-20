@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: francisco
+Build-Jdk: 11.0.2
+Implementation-Title: test-tbk-fcoarias
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.github.seratch
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+

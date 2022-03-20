@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd">
+
+<hibernate-mapping>
+    <class name="cl.test.tbk.fcoarias.model.MetaDataObject" table="METADATA" dynamic-update="false" dynamic-insert="false">
+        <id name="metaDataId" type="java.lang.Integer" column="ID_METADATA">
+            <generator class="increment"></generator>
+        </id>
+        <property name="userId" type="java.lang.Integer" update="true" insert="true" access="property" column="ID_USER"/>
+        <property name="uuid" type="java.lang.String" update="true" insert="true" access="property" column="UUID"/>
+        <property name="token" type="java.lang.String" update="true" insert="true" access="property" column="TOKEN"/>
+        <property name="is_active" type="java.lang.Boolean" update="true" insert="true" access="property" column="IS_ACTIVE"/>
+        <property name="created" type="java.sql.Date" update="true" insert="true" access="property" column="CREATED_DATE"/>
+        <property name="modified" type="java.sql.Date" update="true" insert="true" access="property" column="UPDATE_DATE"/>
+        <property name="last_login" type="java.sql.Date" update="true" insert="true" access="property" column="LAST_LOGIN_DATE"/>
+    </class>
+</hibernate-mapping>

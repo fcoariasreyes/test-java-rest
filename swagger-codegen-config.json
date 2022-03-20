@@ -1,0 +1,10 @@
+{
+  "groupId":"cl.tbk.fcoarias",
+  "artifactId":"test-tbk.fcoarias",
+  "modelPackage":"cl.test.tbk.fcoarias.model",
+  "apiPackage":"cl.test.tbk.fco.arias.controller",
+  "invokerPackage":"cl.test.tbk.fco.arias.service",
+  "artifactVersion":"1.0.0-SNAPSHOT",
+  "serializableModel":true,
+  "library":"jersey2"
+}
